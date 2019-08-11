@@ -1,5 +1,7 @@
 # Display table centering
 
+> https://30-seconds.github.io/30-seconds-of-css/#display-table-centering
+
 Vertically and horizontally centers a child element within its parent element using `display: table` (as an alternative to `flexbox`).
 
 HTML
