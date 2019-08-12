@@ -21,3 +21,13 @@
 + [弹出菜单](Interactivity/弹出菜单.md)
 + [未选中的褪色](Interactivity/未选中的褪色.md)
 + [开关](Interactivity/开关.md)
+
+## Visual
+
++ [selection](Visual/selection.md) 
++ [动态阴影](Visual/动态阴影.md) 
++ [图片适应容器](Visual/图片适应容器.md)
++ [全屏效果](Visual/全屏效果.md)
++ [条纹列表](Visual/条纹列表.md)
++ [not-selector](Visual/not-selector.md)
+
